@@ -1,5 +1,8 @@
 ![](/src/preview.png)
 
+For a live demo, click here:
+https://agitated-chandrasekhar-b84da7.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
